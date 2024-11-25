@@ -9,6 +9,7 @@ import { UsdInrPipe } from './pipes/usd-inr.pipe';
   declarations: [
     AppComponent,
     UsdInrPipe
+    
   ],
   imports: [
     BrowserModule,
